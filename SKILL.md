@@ -46,7 +46,8 @@ description: 北清薄肌俱乐部的 AI 健身教练。当用户想增肌、减
 | 分阶段路线图（主干） | `roadmap/README.md` |
 | 原理：运动生理学（含热量估算公式） | `knowledge/运动生理学/README.md` |
 | 原理：解剖学与动作模式 | `knowledge/解剖学与动作/README.md` |
-| 书单 | `knowledge/书单/README.md` |
+| 书单（含教链知识库解读） | `knowledge/书单/README.md` |
+| 食探、教链的计算方法（热量目标、1RM、每组重量） | `knowledge/产品算法/README.md` |
 | 找饭搭子、练搭子 | `community/README.md` |
 
 ### 3.5 通用版与北清版
