@@ -19,3 +19,14 @@
 - **怎么做**：固定起床时间，比固定入睡时间更容易坚持；睡前一小时把手机调暗，别刷让人上头的内容。
 - **执行难点**：宿舍作息不一致。耳塞和眼罩是性价比最高的投资。
 - **来源**：Watson NF, Badr MS, Belenky G, et al. Recommended amount of sleep for a healthy adult: a joint consensus statement of the American Academy of Sleep Medicine and Sleep Research Society. *Sleep*. 2015;38(6):843-844.
+
+### 3.3 下午的咖啡会偷走晚上的觉：睡前 6 小时别碰咖啡因
+
+- **一句话**：即使在睡前 6 小时摄入较大剂量的咖啡因，也可能让当晚的睡眠减少 1 小时以上，而且自己不一定察觉得到。
+- **证据等级**：B（小样本随机交叉试验） ｜ **成本**：时间 低 · 金钱 低 · 难度 中
+- **适合**：所有喝咖啡、茶、能量饮料的人。
+- **说人话**："我喝完照样睡得着"不代表睡得好。睡着了，深睡也可能被偷走一部分。
+- **怎么做（通用）**：打算 23 点睡，17 点后就别再喝咖啡、浓茶、能量饮料；下午犯困，可以改成短暂午睡或出门走 10 分钟。
+- **北清版**：实验室和图书馆的下午第二杯咖啡，是很多人晚上睡不着的原因。要熬夜赶 DDL，与其晚上灌咖啡，不如早点睡、早点起来赶。
+- **执行难点**：咖啡已经是习惯。先把最后一杯的时间提前，再考虑减量。
+- **来源**：Drake C, Roehrs T, Shambroom J, Roth T. Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed. *J Clin Sleep Med*. 2013;9(11):1195-1200.
