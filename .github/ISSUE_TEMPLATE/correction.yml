@@ -1,0 +1,24 @@
+name: 条目纠错
+description: 某条的数字、来源或证据等级有问题
+title: "[纠错] "
+labels: ["纠错"]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: 条目编号
+      placeholder: 例如 1.3
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题是什么
+      description: 哪句话有问题，为什么
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 依据
+      description: 请给出期刊论文、系统综述或官方指南

@@ -1,0 +1,24 @@
+name: 食堂高蛋白窗口
+description: 贡献你学校食堂里蛋白质高、性价比高的窗口和菜
+title: "[食堂] 学校 - 食堂 - 窗口"
+labels: ["食堂"]
+body:
+  - type: input
+    id: school
+    attributes:
+      label: 学校 / 食堂 / 窗口
+      placeholder: 例如 北京大学 / XX 食堂 / 二层 XX 窗口
+    validations:
+      required: true
+  - type: textarea
+    id: dishes
+    attributes:
+      label: 推荐的菜和价格
+      description: 菜名、大概价格、份量；有照片更好
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: 备注
+      description: 供应时段、排队情况、适合增肌还是减脂

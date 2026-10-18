@@ -1,0 +1,19 @@
+name: 我的情况没覆盖
+description: 按指南做卡住了，或者你的场景指南里没写
+title: "[没覆盖] "
+labels: ["没覆盖"]
+body:
+  - type: textarea
+    id: situation
+    attributes:
+      label: 你的情况
+      description: 目标、训练经验、每周能练几次、器械条件、作息和饮食场景（不要填写真实姓名、学号等个人信息）
+    validations:
+      required: true
+  - type: textarea
+    id: stuck
+    attributes:
+      label: 卡在哪一步
+      description: 你参考了哪条（如 2.3），具体是哪里做不到、或者找不到答案
+    validations:
+      required: true
